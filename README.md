@@ -40,10 +40,3 @@ This repository contains the following:
 ## Notes
 - Ensure your dataset is in the correct format before loading it into the notebook.
 - Feel free to expand the analysis sections based on the objectives of your study.
-
-# Writing the content to a markdown file
-markdown_file_path = "/mnt/data/README_GDP_Analysis.md"
-with open(markdown_file_path, "w") as md_file:
-    md_file.write(readme_content)
-
-markdown_file_path
